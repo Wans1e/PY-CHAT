@@ -1,30 +1,30 @@
 # PY-CHAT
-Create a private chatroom without any third-party middlemen in less than 30 seconds, available through an AES encrypted password protected link.
+Create or join a private chatroom without any third-party middlemen in less than 30 seconds, available through an AES encrypted password protected link.
 
 ![PY-CHAT.gif](PY-CHAT.gif)
 
 ## Download
-1. Download PY-CHAT [here](https://github.com/Wans1e/PY-CHAT/releases/download/Release/PY-CHAT.zip)
+1. Download PY-CHAT.zip [here](https://github.com/Wans1e/PY-CHAT/releases/download/Release/PY-CHAT.zip)
 2. Unzip PY-CHAT.zip
 3. Double-click PY-CHAT
 
 ## Usage
-* **Creating a chatroom**
-  1. Enter "create"
-  2. Enter your address
-    * Example: localhost
-    * Example: localhost:5555
-  3. The forwarded port address (optional)
-    * Example: 2.tcp.eu.ngrok.io:18413
-  4. Choose your chatroom password (hidden)
-  5. Save the chatroom link
-  6. Choose your username
+**Creating a chatroom**
+1. Enter "Create"
+2. Enter your address
+  * Example: localhost
+  * Example: localhost:5555
+3. Enter your forwarded port address (optional)
+  * Example: 2.tcp.eu.ngrok.io:18413
+4. Choose your chatroom password (hidden)
+5. Save the chatroom link
+6. Choose your username
 
-* **Joining a chatroom**
-  1. Enter "join"
-  2. Paste the chatroom link
-  3. Enter the chatroom password (hidden)
-  4. Choose your username
+**Joining a chatroom**
+1. Enter "Join"
+2. Paste the chatroom link
+3. Enter the chatroom password (hidden)
+4. Choose your username
 
 ## Features
 * AES Encrypted Link
