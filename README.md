@@ -12,10 +12,10 @@ Create or join a private chatroom without any third-party middlemen in less than
 **Creating a chatroom**
 1. Enter "Create"
 2. Enter your address
-  a. Example: localhost
-  b. Example: localhost:5555
+  1. Example: localhost
+  2. Example: localhost:5555
 3. Enter your forwarded port address (optional)
-  a. Example: 2.tcp.eu.ngrok.io:18413
+  1. Example: 2.tcp.eu.ngrok.io:18413
 4. Choose your chatroom password (hidden)
 5. Save the chatroom link
 6. Choose your username
